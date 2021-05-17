@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: helloweb-ahil
+  name: helloweb-ahil-test
   labels:
     app: hello
 spec:
